@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Makanan Khas Indonesia</string>
+    <string name="food_name">Nama Makanan</string>
+    <string name="sub_title">Makanan Asal</string>
+    <string name="list">List</string>
+    <string name="about">About</string>
+</resources>
